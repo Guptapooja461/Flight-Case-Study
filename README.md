@@ -1,1 +1,1 @@
-# Flight-Case-Study
+# Flight-case-study
